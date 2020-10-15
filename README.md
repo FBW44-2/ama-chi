@@ -3,7 +3,7 @@ I'm Chi!
 Ask me a question
 I will try to answer honestly ^-^
 ## Guidelines
-​![](https://images.unsplash.com/photo-1576565334281-aa7d97ad8e70?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
+​![](https://images.unsplash.com/photo-1535952548450-d7447587e733?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80)
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
